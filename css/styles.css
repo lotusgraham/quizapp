@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300|Rock+Salt);
+
+body {
+  background: url(bg.jpg) center center/cover no-repeat fixed;
+  background-color: salmon;
+  font-family:'Rock Salt';
+}
+
+.wrapper
+{
+  margin:10% auto;
+  width:25rem;
+}
+
+#score{
+  font-family:'Open Sans';
+  font-size:1rem;
+}
+
+li{
+  text-align: center;
+  font-size: 2rem;
+  list-style-type: none;
+}
+
+.choices{
+  font-size: 10rem;
+}
+
+button{
+    display: block;
+    text-align: center;
+    margin:0 auto;
+}
